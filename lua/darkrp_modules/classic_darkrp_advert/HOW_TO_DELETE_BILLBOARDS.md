@@ -4,7 +4,7 @@ You are not supposed to edit core files, but...
 WARNING: This does require you to delete the following folder:
 gamemodes\darkrp\entities\entities\darkrp_billboard
 
-If you're using a host and not your PC
+If you're using a host and not your PC:
 
 A lot of hosts automatically download/update DarkRP using an
 SVN, and some hosts don't allow you to remove SVN related

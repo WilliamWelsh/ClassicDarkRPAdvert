@@ -12,5 +12,6 @@ function playerAdvert( ply, args )
 		return ""
 	end
 end
+
 DarkRP.defineChatCommand( "advert", playerAdvert )
 DarkRP.defineChatCommand( "ad", playerAdvert )
