@@ -9,7 +9,7 @@ function playerAdvert( ply, args )
 			local senderColor = team.GetColor( ply:Team() )
 			DarkRP.talkToPerson( pl, senderColor, "[Advert]".." "..ply:Nick(), Color(255,255,0,255), args, ply )
 		end
-		hook.Call("playerAdverted", nil, ply, args) -- bLogs Support
+		--hook.Call("playerAdverted", nil, ply, args) -- bLogs Support
 		return ""
 	end
 end
